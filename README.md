@@ -22,4 +22,6 @@ The project implements robust error handling to manage various real-world scenar
 
 *OUTPUT:*
 
+![Image](https://github.com/user-attachments/assets/60e3e653-6b25-4629-96f8-110dcb355fd0)
+
 
