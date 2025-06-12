@@ -26,6 +26,8 @@ The project implements robust error handling to manage various real-world scenar
 
 Since the bot for now works on searching the keyword provided via a Wikipedia search, it can be inaccurate or even cause errors if multiple faactor comparision is done.
 
+![Image](https://github.com/user-attachments/assets/999c33e8-fb94-4e75-8e95-3ed21f46e16c)
+
 
 
 
